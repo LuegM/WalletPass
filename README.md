@@ -1,5 +1,7 @@
 # WalletPass
 
+https://luegm.dev/posts/walletpass/
+
 Welcome to my step-by-step guide on how to build your own digital ticket for the Apple Wallet. Today, I'm going to show you how to set up a backend system and create an app with SwiftUI that lets you store and use tickets right on your iPhone. 
 
 We’re going to turn the Klimaticket, a yearly public transport ticket in Austria, into a ticket on your phone. This will make your travels simpler and help the planet too.
