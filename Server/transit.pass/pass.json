@@ -1,0 +1,29 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "<your-passTypeIdentifier>",
+  "serialNumber" : "<some serial number>",
+  "teamIdentifier" : "<your-teamID>",
+  "barcode" : {
+    "message" : "test",
+    "format" : "PKBarcodeFormatAztec",
+    "altText": "CIV",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "organizationName" : "organization",
+  "description" : "WalletTicket",
+  "logoText" : "WalletTicket",
+  "foregroundColor" : "rgb(255, 255, 255)",
+  "backgroundColor" : "rgb(37, 150, 190)",
+  "generic" : {
+    "primaryFields" : [
+    ],
+    "headerFields" : [
+    ],
+    "secondaryFields" : [
+    ],
+    "auxiliaryFields" : [
+    ],
+    "backFields" : [
+    ]
+  }
+}
