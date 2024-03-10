@@ -12,10 +12,6 @@ By the time you finish this guide, you'll learn how to create digital passes for
 
 ## Preparations
 
-{{< notice info >}}
-Github-Link: [WalletPass](https://github.com/LuegM/WalletPass/tree/main)
-{{< /notice >}}
-
 1. Create the server folder and initialize it
 ```bash
 mkdir server && cd server && npm init -y
